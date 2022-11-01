@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif
+[![MasterHead](![github-header-image](https://user-images.githubusercontent.com/114689560/199193377-5ae85b52-240c-4dff-9f3b-bdddfe427f55.png)
+
 )](https://kodekv.github.io/websitetwo.github.io/
 )
 
