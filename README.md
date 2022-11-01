@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9b4dc87f022b2af14ed935b4de91f272e6e687a9b3d122ffdf3fcb3208189a48/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966
-")
+<!-- (img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9b4dc87f022b2af14ed935b4de91f272e6e687a9b3d122ffdf3fcb3208189a48/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966
+") -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodekv&label=Profile%20views&color=0e75b6&style=flat" alt="kodekv" /> </p>
 
