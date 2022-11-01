@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](![github-header-image](https://user-images.githubusercontent.com/114689560/199193377-5ae85b52-240c-4dff-9f3b-bdddfe427f55.png)
+![github-header-image](https://user-images.githubusercontent.com/114689560/199193377-5ae85b52-240c-4dff-9f3b-bdddfe427f55.png)
 
-)](https://kodekv.github.io/websitetwo.github.io/
-)
+
 
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
